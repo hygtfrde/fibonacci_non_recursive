@@ -22,20 +22,6 @@ int fibo_func(int n)
   // return fibo_func(n);
 }
 
-// int rcur_fibo_func(int rcur_n)
-// {
-//   int rcur_fibo = 1;
-//   int rcur_fiboPrev = 1;  // initialize variables for use in algorithm
-//   int rcur_temp;
-//   if (rcur_n <= 1)
-//   {
- //     return n;
-//   }
-//   else
-//   { return }
-//   for ()
-// }
-
 
 int main ()
 {
